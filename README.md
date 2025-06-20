@@ -25,10 +25,11 @@ npm init -y
 npm install
 ```
 
-~ Run The Scripts
+~ Run The Scripts & add your token
 ```
 node lim.js
 ```
+
 
 ##  🍉 Donate for  watermelon
 
