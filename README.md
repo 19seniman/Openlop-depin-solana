@@ -20,5 +20,13 @@ git clone https://github.com/19seniman/Openlop-depin-solana.git
 cd Openlop-depin-solana
 ```
 ```
-npm i
+npm install axios ping chalk readline-sync
+npm init -y
+npm install
 ```
+
+~ Run The Scripts
+```
+node lim.js
+```
+
