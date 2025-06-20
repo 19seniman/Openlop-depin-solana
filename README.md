@@ -14,10 +14,10 @@ OpenLoop Point (will be converted to $OPL token when listing on CEX)
 ## INSTALLATION
 
 ```
-git clone
+git clone https://github.com/19seniman/Openlop-depin-solana.git
 ```
 ```
-cd
+cd Openlop-depin-solana
 ```
 ```
 npm i
